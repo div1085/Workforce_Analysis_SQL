@@ -31,4 +31,4 @@ from unique_titles
 Group By title
 order by count desc;**
 
-With the queruy we can find Senior Engineers, Senior Staff and Technical Leaders who are retirement-ready and can mentor the new Pewlett Hackard employees.
+With the query we can find Senior Engineers, Senior Staff and Technical Leaders who are retirement-ready and can mentor the new Pewlett Hackard employees.
