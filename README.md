@@ -16,7 +16,7 @@ Our retiring employees were select from all employees born between January, 1 19
   - 5%	Technique Leader
   - 2%	Assistant Engineer
 
-3. With the total number of eligible mentorships, 1,940 mentees may not be able cover the gap of the eligible retirees.  If Pewlett-Hackard will compensate the lost by training from withing, the Bobby will need to widen the search parameter.
+3. With the total number of eligible mentorships, 1,940 mentees may not be able cover the gap of the eligible retirees.  If Pewlett-Hackard will compensate the loss by training from withing, the Bobby will need to widen the search parameter.
 4. Our retiring_titles shows us the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
 
 ## Summary:
