@@ -9,10 +9,10 @@ Our retiring employees were select from all employees born between January, 1 19
 
 1. From the finding of the eligible retirees, 30% of the workforce could retire at any given time.
 2. From the job titles of the eligible retirees, the breakdown is below.
-  - 36%	Staff
-  - 32%	Senior Engineer
+  - 36%	Senior Engineer
+  - 32%	Senior Staff
   - 16%	Engineer
-  - 9%	Senior Staff
+  - 9%	Staff
   - 5%	Technique Leader
   - 2%	Assistant Engineer
 
