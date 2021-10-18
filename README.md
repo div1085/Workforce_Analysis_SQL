@@ -7,8 +7,8 @@ Our retiring employees were select from all employees born between January, 1 19
 
 ## Results
 
-•	From the finding of the eligible retirees, 30% of the workforce could retire at any given time.
-•	From the job titles of the eligible retirees, the breakdown is below.
+1. From the finding of the eligible retirees, 30% of the workforce could retire at any given time.
+2. From the job titles of the eligible retirees, the breakdown is below.
   - 36%	Staff
   - 32%	Senior Engineer
   - 16%	Engineer
@@ -16,10 +16,10 @@ Our retiring employees were select from all employees born between January, 1 19
   - 5%	Technique Leader
   - 2%	Assistant Engineer
 
-•	With the total number of eligible mentorships, 1,940 mentees may not be able cover the gap of the eligible retirees.  If Pewlett-Hackard will compensate the lost by training from withing, the Bobby will need to widen the search parameter.
-• Our retiring_titles shows us the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
+3. With the total number of eligible mentorships, 1,940 mentees may not be able cover the gap of the eligible retirees.  If Pewlett-Hackard will compensate the lost by training from withing, the Bobby will need to widen the search parameter.
+4. Our retiring_titles shows us the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
 
-Summary:
+## Summary:
 
 Approximately 90,000 positions needs to filled in order to mitigate "silver tsunami". 
 
